@@ -60,7 +60,7 @@ ${petik}├❒ Source
 ├❒ Group_support
 └❒ Ownerbot${petik}
 
-❒ _Creator BotWea © 2K21_ ❒
+❒ _Faisal Ganz © 2021_ ❒
 `
 }
 const convert = (prefix) => {
@@ -672,7 +672,7 @@ ${petik}│◦ ${prefix}rikagusriani
 │
 └─❑「 MENU BOT 」
 
-❏───「 *ALPHA BOT* 」───❏
+❏───「 *Faisal BOT* 」───❏
 `
 }
 
