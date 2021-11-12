@@ -1,5 +1,5 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY Faisal Ganz
 
 *さ BANK*
 1. BRI 
@@ -8,18 +8,19 @@ return `PAYMENT BY ZEEONE OFC
 		
 *さ E-MONEY*
 1. GOPAY
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ 0858 7706 4290
+		• Ahmad Faisal
 2. OVO
 	ㅁ 0887 4350 47326
 		• EL*****TI
 3. DANA
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ 0858 7706 4290
+		• AHMAD FAISAL
 
 *さ PULSA*
 
-Tidak tersedia
+INDOSAT
+0858 7706 4290
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
