@@ -60,12 +60,13 @@ Off in web nya
 
 - [`Alphabot 1`](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
 - [`Alphabot 2`](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [`Alphabot 3`](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
+- [`Alphabot 3`](https://chat.whatsapp.com/DpbYYSymEyQDWhWO3p9hDH)
 
 ## `THANKS TO`
 
 - Allah SWT.
 - My parents
+- Faisal
 - All Friends
 - All Contributors
 - All Creator Bot
